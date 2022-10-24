@@ -1,5 +1,4 @@
-db.* # files base of data
-*.pyc # python cash files 
-.idea/ # files of pycharm
-*venv/ # files of virtual env
-
+db.*
+*.pyc
+.idea/
+*venv/
